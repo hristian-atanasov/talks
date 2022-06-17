@@ -1,0 +1,11 @@
+GET "https://api.appserver.com/user/bc98d297-73e9-4fcd-801d-f5f405d97b7d"
+
+{
+    "userData": {
+        "id":"bc98d297-73e9-4fcd-801d-f5f405d97b7d",
+        "imagePath":"http://static.appserver.com/images/users/bc98d297-73e9-4fcd-801d-f5f405d97b7d.jpg",
+        "firstName":"Hristian",
+        "lastName":"Atanasov",
+        "roles":"Admin"
+    }
+}
